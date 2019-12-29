@@ -1,0 +1,2 @@
+Hello, and welcome to my first webpage! I created this webpage for my freshman fall 2019 class at Yale: CS50, or Intro to Computing
+and Programming. It is hosted in the CS50 IDE and utilizes HTML, Javascript, and CSS.

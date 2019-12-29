@@ -1,0 +1,99 @@
+/* for all the pages */
+.firstline
+{
+    padding-top: 30px;
+}
+.top
+{
+    text-align: center;
+    padding-bottom: 15px;
+    background-image: linear-gradient(lightblue, lightsteelblue);
+}
+form
+{
+    display: inline-block;
+}
+div
+{
+    padding-top: 10px;
+    text-align: center;
+}
+p
+{
+    font-size: large;
+    font-family: trebuchet MS, sans-serif;
+}
+.center
+{
+    text-align: center;
+}
+/* https://www.computerhope.com/issues/ch001784.htm - help for rotation */
+.rotate90
+{
+  -webkit-transform:rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+.rotate180
+{
+  -webkit-transform:rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
+.photos
+{
+    text-align: center;
+    margin-top: 25px;
+}
+
+/* exclusive to index.html */
+#img1
+{
+    position: absolute;
+    top: 325px;
+    left: 200px;
+}
+#besideimg1
+{
+    text-align: left;
+    margin-top: 25px;
+    margin-left: 550px;
+}
+
+/* exclusive to family.html */
+.family
+{
+    border: 5px outset mistyrose;
+    margin-bottom: 10px;
+}
+
+/* exclusive to highschool.html */
+table
+{
+    text-align: center;
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-family: trebuchet MS, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+}
+td
+{
+    border: 1px solid black;
+    padding: 5px;
+}
+th
+{
+    border: 1px solid black;
+    padding: 5px;
+}
+
+/* exclusive to college.html */
+.collegephotos
+{
+    border: 5px outset navy;
+}
